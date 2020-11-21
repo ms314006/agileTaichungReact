@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hi，create-react-app 建立的初始專案直接內建 testing-library 真的太讚了！
+
+請大家 Pull 專案後請先輸入 `npm install` 安裝執行專案所需的套件。
+
 ## Unit Test
 
-Hi，要執行測試請先執行下方指令：
+要執行測試請先執行下方指令：
 
 ```
 npm run test
